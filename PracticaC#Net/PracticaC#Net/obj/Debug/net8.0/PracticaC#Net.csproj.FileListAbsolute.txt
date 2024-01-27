@@ -1,0 +1,15 @@
+C:\Users\elang\Desktop\Platzi\Proyectos\PracticaC#Net\PracticaC#Net\bin\Debug\net8.0\PracticaC#Net.exe
+C:\Users\elang\Desktop\Platzi\Proyectos\PracticaC#Net\PracticaC#Net\bin\Debug\net8.0\PracticaC#Net.deps.json
+C:\Users\elang\Desktop\Platzi\Proyectos\PracticaC#Net\PracticaC#Net\bin\Debug\net8.0\PracticaC#Net.runtimeconfig.json
+C:\Users\elang\Desktop\Platzi\Proyectos\PracticaC#Net\PracticaC#Net\bin\Debug\net8.0\PracticaC#Net.dll
+C:\Users\elang\Desktop\Platzi\Proyectos\PracticaC#Net\PracticaC#Net\bin\Debug\net8.0\PracticaC#Net.pdb
+C:\Users\elang\Desktop\Platzi\Proyectos\PracticaC#Net\PracticaC#Net\obj\Debug\net8.0\PracticaC#Net.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elang\Desktop\Platzi\Proyectos\PracticaC#Net\PracticaC#Net\obj\Debug\net8.0\PracticaC#Net.AssemblyInfoInputs.cache
+C:\Users\elang\Desktop\Platzi\Proyectos\PracticaC#Net\PracticaC#Net\obj\Debug\net8.0\PracticaC#Net.AssemblyInfo.cs
+C:\Users\elang\Desktop\Platzi\Proyectos\PracticaC#Net\PracticaC#Net\obj\Debug\net8.0\PracticaC#Net.csproj.CoreCompileInputs.cache
+C:\Users\elang\Desktop\Platzi\Proyectos\PracticaC#Net\PracticaC#Net\obj\Debug\net8.0\PracticaC#Net.sourcelink.json
+C:\Users\elang\Desktop\Platzi\Proyectos\PracticaC#Net\PracticaC#Net\obj\Debug\net8.0\PracticaC#Net.dll
+C:\Users\elang\Desktop\Platzi\Proyectos\PracticaC#Net\PracticaC#Net\obj\Debug\net8.0\refint\PracticaC#Net.dll
+C:\Users\elang\Desktop\Platzi\Proyectos\PracticaC#Net\PracticaC#Net\obj\Debug\net8.0\PracticaC#Net.pdb
+C:\Users\elang\Desktop\Platzi\Proyectos\PracticaC#Net\PracticaC#Net\obj\Debug\net8.0\PracticaC#Net.genruntimeconfig.cache
+C:\Users\elang\Desktop\Platzi\Proyectos\PracticaC#Net\PracticaC#Net\obj\Debug\net8.0\ref\PracticaC#Net.dll
